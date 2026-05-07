@@ -1,6 +1,10 @@
+// Maria Eduarda N31
+// Kemilly Emanuelly N26
+
 const leitor = require('node:fs');
 const dados = leitor.readFileSync("alunos.txt", "utf-8")
                     .split("\r\n");
+                    
 const alunos = [];
 for(let i = 0; i < dados.length; i++){
     alunos.push(criarAluno(dados[i]));
