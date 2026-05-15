@@ -16,8 +16,8 @@ botao.addEventListener('click', async () => {
         });
         const linhaQuantidade = document.createElement('tr');
         linhaQuantidade.innerHTML = `
-            <td colspan=3>
-                Quantidade de Produtos: ${produtos.lenght}
+            <td colspan="3">
+                Quantidade de Produtos: ${produtos.length}
             </td>
         `;
         tabelaProdutos.appendChild(linhaQuantidade);
