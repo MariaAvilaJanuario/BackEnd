@@ -1,0 +1,242 @@
+[
+    {
+        "sigla": "BRA",
+        "nome": "Brasil",
+        "titulos": [1958, 1962, 1970, 1994, 2002]
+    },
+    {
+        "sigla": "ARG",
+        "nome": "Argentina",
+        "titulos": [1978, 1986, 2022]
+    },
+    {
+        "sigla": "GER",
+        "nome": "Alemanha",
+        "titulos": [1954, 1974, 1990, 2014]
+    },
+    {
+        "sigla": "FRA",
+        "nome": "França",
+        "titulos": [1998, 2018]
+    },
+    {
+        "sigla": "ENG",
+        "nome": "Inglaterra",
+        "titulos": [1966]
+    },
+    {
+        "sigla": "URU",
+        "nome": "Uruguai",
+        "titulos": [1930, 1950]
+    },
+    {
+        "sigla": "SPA",
+        "nome": "Espanha",
+        "titulos": [2010]
+    },
+    {
+        "sigla": "POR",
+        "nome": "Portugal",
+        "titulos": []
+    },
+    {
+        "sigla": "MEX",
+        "nome": "México",
+        "titulos": []
+    },
+    {
+        "sigla": "BEL",
+        "nome": "Bélgica",
+        "titulos": []
+    },
+    {
+        "sigla": "CAN",
+        "nome": "Canadá",
+        "titulos": []
+    },
+    {
+        "sigla": "EUA",
+        "nome": "Estados Unidos",
+        "titulos": []
+    },
+    {
+        "sigla": "COL",
+        "nome": "Colômbia",
+        "titulos": []
+    },
+    {
+        "sigla": "ECU",
+        "nome": "Equador",
+        "titulos": []
+    },
+    {
+        "sigla": "PAR",
+        "nome": "Paraguai",
+        "titulos": []
+    },
+    {
+        "sigla": "AUT",
+        "nome": "Áustria",
+        "titulos": []
+    },
+    {
+        "sigla": "BIH",
+        "nome": "Bósnia e Herzegovina",
+        "titulos": []
+    },
+    {
+        "sigla": "CRO",
+        "nome": "Croácia",
+        "titulos": []
+    },
+    {
+        "sigla": "SCO",
+        "nome": "Escócia",
+        "titulos": []
+    },
+    {
+        "sigla": "NED",
+        "nome": "Holanda",
+        "titulos": []
+    },
+    {
+        "sigla": "NOR",
+        "nome": "Noruega",
+        "titulos": []
+    },
+    {
+        "sigla": "CZE",
+        "nome": "República Tcheca",
+        "titulos": []
+    },
+    {
+        "sigla": "SWE",
+        "nome": "Suécia",
+        "titulos": []
+    },
+    {
+        "sigla": "SUI",
+        "nome": "Suiça",
+        "titulos": []
+    },
+    {
+        "sigla": "TUR",
+        "nome": "Turquia",
+        "titulos": []
+    },
+    {
+        "sigla": "RSA",
+        "nome": "África do Sul",
+        "titulos": []
+    },
+    {
+        "sigla": "ALG",
+        "nome": "Argélia",
+        "titulos": []
+    },
+    {
+        "sigla": "CPV",
+        "nome": "Cabo Verde",
+        "titulos": []
+    },
+    {
+        "sigla": "CIV",
+        "nome": "Costa do Marfim",
+        "titulos": []
+    },
+    {
+        "sigla": "EGY",
+        "nome": "Egito",
+        "titulos": []
+    },
+    {
+        "sigla": "GHA",
+        "nome": "Gana",
+        "titulos": []
+    },
+    {
+        "sigla": "MAR",
+        "nome": "Marrocos",
+        "titulos": []
+    },
+    {
+        "sigla": "COD",
+        "nome": "RD Congo",
+        "titulos": []
+    },
+    {
+        "sigla": "SEN",
+        "nome": "Senegal",
+        "titulos": []
+    },
+    {
+        "sigla": "TUN",
+        "nome": "Tuníssia",
+        "titulos": []
+    },
+    {
+        "sigla": "KSA",
+        "nome": "Árabia Saudita",
+        "titulos": []
+    },
+    {
+        "sigla": "AUS",
+        "nome": "Austrália",
+        "titulos": []
+    },
+    {
+        "sigla": "QTA",
+        "nome": "CATAR",
+        "titulos": []
+    },
+    {
+        "sigla": "KOR",
+        "nome": "Coreia do Sul",
+        "titulos": []
+    },
+    {
+        "sigla": "IRN",
+        "nome": "Irã",
+        "titulos": []
+    },
+    {
+        "sigla": "IRQ",
+        "nome": "Iraque",
+        "titulos": []
+    },
+    {
+        "sigla": "JPN",
+        "nome": "Japão",
+        "titulos": []
+    },
+    {
+        "sigla": "JOR",
+        "nome": "Jordânia",
+        "titulos": []
+    },
+    {
+        "sigla": "UZB",
+        "nome": "Uzbequistão",
+        "titulos": []
+    },
+    {
+        "sigla": "CUW",
+        "nome": "Curaçau",
+        "titulos": []
+    },
+    {
+        "sigla": "HAI",
+        "nome": "Haiti",
+        "titulos": []
+    },
+    {
+        "sigla": "PAN",
+        "nome": "Panamá",
+        "titulos": []
+    },
+    {
+        "sigla": "NZL",
+        "nome": "Nova Zelândia",
+        "titulos": []
+    }
+]
